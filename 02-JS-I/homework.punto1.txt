@@ -1,0 +1,14 @@
+Variables: Una variable es una representación escrita de algo, ese algo puede ser: nombre, edad, peso, altura, etc. Las variables pueden guardar las respuestas de las
+representaciones que estamos mencionando, ejemplo: nombre: Pepito.
+
+Strings: En la vida cotidiana sabemos a que se hace referencia cuando nos dicen números y letras, en un lenguaje de programación necesitamos una palabra que nos 
+describa estos números o letras, en el caso de letras o texto decimos que es un string. 
+
+Funciones (argumentos, return ): Una función es como una máquina a la cual yo le ingreso algo (argumento) y me devuelve algo igual o diferente (return).
+
+Declaraciones if: Teniendo en cuenta lo mencionado anteriormente sobre las funciones, podemos usar declaraciones (if) para configurar nuestra máquina, en otras 
+palabas le podemos decir a nuesra máquina que si lo que ingresa tiene ciertas condiciones haga una cosa y si no cumple esas condiciones haga algo diferente o no haga
+nada.
+
+Valores booleanos (true, false): Nuestra máquina puede ser capaz de reconocer lo que estamos ingresando en ese caso si lo que ingresa a la máquina es lo que ella
+necesita ella dirá que es true o de lo contrario dirá false. 
