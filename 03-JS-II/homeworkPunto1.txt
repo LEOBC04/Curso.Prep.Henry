@@ -1,0 +1,11 @@
+for: El funcionamiento de esta herramienta es como un ciclo en el que hay un inicio y un final, durante el ciclo se evaluan expresiones que devuelven algo que se está buscando.
+
+&&: Este operador nos está imponiendo condiciones que se tienen que cumplir si o si para poder obtener un resultado. Por ejemplo si tú padre te dice 
+puedes salir a jugar si haces la tarea y si organizas tu habitación, para poder salir a jugar debes de cumplir las dos condiciones si no cumples una de las dos 
+no podes salir a jugar.
+
+||: ahora imaginemos que tu padre te dice que para salir a jugar debes organizar la habitación o hacer la tarea, esto quiere decir que si haces una de las dos podrás
+salir a jugar.
+
+!: Este operador puede funcionar como una máquina a la cual le ingresamos un tipo de dato y nos devuelve lo contrario.
+
