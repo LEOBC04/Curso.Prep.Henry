@@ -1,0 +1,2 @@
+Arrays: Un array se puede entender como una caja en la cual puedo almacenar cualquier cosa y en todo momento puedo sacar o meter algo, otra cosa interesante 
+es dentro de esta caja puedo meter otras cajas. 
