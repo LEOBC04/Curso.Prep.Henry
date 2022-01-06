@@ -1,0 +1,12 @@
+Objetos: En el modulo anterior comentamos acefca de los arreglos y dijimos que son como una caja en la que puedo meter muchas cosas de diferentes tipos, en el caso de
+los objetos también son cajas en las que podemos meter mucha información de una sola cosa en especifico.
+
+Propiedades: Un objeto o nuestra caja es una coleccion de propiedades o cosas, y una propiedad es una asociación entre un nombre o key y un valor, los valores pueden 
+ser funciones que también son llamadas métodos. 
+
+Métodos: Cuando hablamos de métodos en objetos hacemos referencia a una función que hace parte del objeto (está dentro de la caja)
+
+Bucle (for in): Este comando es una expresión que utilizamos para recorrer el contenido de nuestra caja, similar a los arreglos pero con una sintaxis diferente.
+
+Notación de puntos vs Notación de corchetes: Esto hace referencia a la forma en la que podemos llamar a los contenidos de nuestra caja. 
+
