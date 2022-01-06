@@ -1,0 +1,4 @@
+Prototype: Un prototipo se puede definir como un objeto de partida para otros objetos. 
+
+Constructors: Los constructores son útiles para crear otros objetos que compartan algunas propiedades, lo cual evita reescribir código. 
+
