@@ -1,0 +1,5 @@
+Funciones Callback:Anteriormente habíamos hecho una comparación de una función
+como una máquina a la cual ingresaba algo (argumento) para que realizara cierta operación
+y me devolviera algo como producto, las funciones callback son funciones 
+que están dentro de otras funciones, una máquina dentro de otra máquina,
+la operación a realiza por la máquina principal depende de la máquina interna. 
